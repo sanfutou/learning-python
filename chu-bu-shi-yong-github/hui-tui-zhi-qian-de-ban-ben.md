@@ -1,4 +1,4 @@
 ##回退到之前的版本  
-如果发现修改错误那就可以利用github desktop中选择history
-
-但现在找不到回退的齿轮了，知乎上说要到git上用命令行进行执行。  
+如果发现修改错误那就可以利用github desktop中选择history,然后选中要回退的commit位置，右键选择revert this commit。
+  
+![](img/20180210215438.png) 
