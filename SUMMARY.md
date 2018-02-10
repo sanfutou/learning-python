@@ -8,4 +8,9 @@
   * [开始写作](chu-bu-shi-yong-github/kai-shi-xie-zuo.md)
   * [上传内容](chu-bu-shi-yong-github/shang-chuan-nei-rong.md)
   * [回退之前的版本](chu-bu-shi-yong-github/hui-tui-zhi-qian-de-ban-ben.md)
+* [使用gitbook](shi-yong-gitbook.md)
+  * 创建一个新的仓库
+  * 创建一本书
+  * 增加内容
+  * 书的框架
 
