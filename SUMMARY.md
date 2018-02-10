@@ -9,8 +9,8 @@
   * [上传内容](chu-bu-shi-yong-github/shang-chuan-nei-rong.md)
   * [回退之前的版本](chu-bu-shi-yong-github/hui-tui-zhi-qian-de-ban-ben.md)
 * [使用gitbook](shi-yong-gitbook.md)
-  * 创建一个新的仓库
-  * 创建一本书
-  * 增加内容
-  * 书的框架
+  * [创建一个新的仓库](shi-yong-gitbook/chuang-jian-yi-ge-xin-de-cang-ku.md)
+  * [创建一本书](shi-yong-gitbook/chuang-jian-yi-ben-shu.md)
+  * [增加内容](shi-yong-gitbook/zeng-jia-nei-rong.md)
+  * [书的框架](shi-yong-gitbook/shu-de-kuang-jia.md)
 
