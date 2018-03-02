@@ -15,3 +15,6 @@ publish一下，然后你会发现在github上summary中也多了一个文件，
 可以发现目录结构变了，然后名字也变了（但我试目前的gitbook中，名字没有变）。  
   
 通过修改SUMMARY.md你可以轻松的组织你的书。
+
+在你引用的图片具有几级目录结构的时候，有时候需要将img目录的上级的目录写入引用的地址。比中引汉济渭工程前期关键技术研究就需要写成（5yin-han-ji-wei-gong-cheng-gong-cheng-ji-zhu-wen-ti
+/img/20180222131021.png)
