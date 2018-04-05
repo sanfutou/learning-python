@@ -15,4 +15,5 @@
   * [书的框架](shi-yong-gitbook/shu-de-kuang-jia.md)
 * [django](django.md)
   * [局域网内访问django设计开发的网站](django/ju-yu-wang-nei-fang-wen-django-she-ji-kai-fa-de-wang-zhan.md)
+  * 在django网站中读取excel文件
 
