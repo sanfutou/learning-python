@@ -13,4 +13,6 @@
   * [创建一本书](shi-yong-gitbook/chuang-jian-yi-ben-shu.md)
   * [增加内容](shi-yong-gitbook/zeng-jia-nei-rong.md)
   * [书的框架](shi-yong-gitbook/shu-de-kuang-jia.md)
+* [django](django.md)
+  * [局域网内访问django设计开发的网站](django/ju-yu-wang-nei-fang-wen-django-she-ji-kai-fa-de-wang-zhan.md)
 
