@@ -16,4 +16,6 @@
 * [django](django.md)
   * [局域网内访问django设计开发的网站](django/ju-yu-wang-nei-fang-wen-django-she-ji-kai-fa-de-wang-zhan.md)
   * [在django网站中读取excel文件](django/zai-django-wang-zhan-zhong-du-qu-excel-wen-jian.md)
+* markdown
+  * [在markdown中完美插入数学公式](zai-markdown-zhong-wan-mei-cha-ru-shu-xue-gong-shi.md)
 
